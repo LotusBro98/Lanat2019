@@ -21,5 +21,5 @@
   - [ ] Свой плеер на основе LibVLC
 - **Веб**
   - [ ] REST API
-  - [ ] VK API
+  - [ ] [VK API](https://vk.readthedocs.io/en/latest/)
   - [X] Сервер на Django
