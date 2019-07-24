@@ -23,3 +23,5 @@
   - [ ] REST API
   - [ ] [VK API](https://vk.readthedocs.io/en/latest/)
   - [X] Сервер на Django
+  - [ ] Синтез речи через API
+  - [ ] Распознавание речи через API
