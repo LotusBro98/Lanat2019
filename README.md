@@ -18,6 +18,7 @@
 - **Графика**
   - [ ] Разработка игр с помощью PyGame
   - [ ] [Движок Ren'Py для визуальных новелл](https://www.renpy.org/doc/html/quickstart.html)
+  - [ ] Свой плеер на основе LibVLC
 - **Веб**
   - [ ] REST API
   - [ ] VK API
