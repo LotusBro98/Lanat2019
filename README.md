@@ -7,7 +7,7 @@
 - **Машинное обучение**
   - [X] [1 нейрон](https://colab.research.google.com/github/LotusBro98/Lanat2019/blob/master/Machine_Learning_1.ipynb)
   - [ ] [Классификация одежды](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/ru/tutorials/keras/basic_classification.ipynb)
-  - [ ] [Сверточные нейросети](https://colab.research.google.com/drive/1QtMwrLmsyOhCqWVvLuMtiG6c2qFgsCeH#scrollTo=0gv4MFx-Cs2D)
+  - [ ] [Сверточные нейросети](https://colab.research.google.com/drive/1QtMwrLmsyOhCqWVvLuMtiG6c2qFgsCeH)
     - **Генерация изображений**
       - [ ] [DCGAN](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/r2/tutorials/generative/dcgan.ipynb)
     - **Распознавание образов**
