@@ -13,7 +13,7 @@
       - [ ] [DCGAN](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/r2/tutorials/generative/dcgan.ipynb)
       - [ ] [Генерация Pixel Art персонажей на основе DCGAN](https://colab.research.google.com/github/LotusBro98/Lanat2019/blob/master/Machine_Learning_4.ipynb)
     - **Распознавание образов**
-      - [ ] [Идентификация объектов](https://colab.research.google.com/github/LotusBro98/Lanat2019/blob/master/Machine_Learning_3.ipynb)
+      - [ ] ~~[Идентификация объектов](https://colab.research.google.com/github/LotusBro98/Lanat2019/blob/master/Machine_Learning_3.ipynb)~~
   - **NLP**
     - [ ] [Анализ отзывов](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/ru/tutorials/keras/basic_text_classification.ipynb?hl=ru)
     - [ ] Вопрос-ответ
